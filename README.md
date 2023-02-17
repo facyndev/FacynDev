@@ -3,10 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Facyn-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:contacto@facyn.xyz)](mailto:contacto@facyn.xyz)
 
 
-Welcome to my profile! I'm a Software Engineer from Bangladesh. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/abdullahalrifat/)!
-
-
-
+Bienvenido a mi perfil! Aqui encontraras mis estadisticas y si deseas puede [contactarme](https://www.facyn.xyz/contacto)
 
 
 ![rifat's github stats](https://github-readme-stats.vercel.app/api?username=abdullahalrifat&show_icons=true)
