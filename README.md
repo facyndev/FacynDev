@@ -1,6 +1,6 @@
 # Hi I'm Facyn 👋
 
-[![Gmail Badge](https://img.shields.io/badge/-abdullahalrifat95-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:contacto@facyn.xyz)](mailto:contacto@facyn.xyz)
+[![Gmail Badge](https://img.shields.io/badge/-jp-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:contacto@facyn.xyz)](mailto:contacto@facyn.xyz)
 
 
 Welcome to my profile! I'm a Software Engineer from Bangladesh. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/abdullahalrifat/)!
