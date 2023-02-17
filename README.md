@@ -6,7 +6,7 @@
 Bienvenido a mi perfil! Aqui encontraras mis estadisticas y si deseas puede [contactarme](https://www.facyn.xyz/contacto). 🍀
 
 
-![rifat's github stats](https://github-readme-stats.vercel.app/api?username=facyndev&show_icons=true)
+![estadisticas](https://github-readme-stats.vercel.app/api?username=facyndev&show_icons=true)
 
 
 ## Lenguajes
