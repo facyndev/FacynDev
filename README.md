@@ -18,8 +18,20 @@
 
 ### Skills 🛠 
 
-## Most used currently
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,git,github)]
+#### Languages
+![Languages](https://skillicons.dev/icons?i=html,css,javascript,java,python)
+
+#### Frameworks
+![Frameworks](https://skillicons.dev/icons?i=react,astro)
+
+#### Tools
+![Tools](https://skillicons.dev/icons?i=git,github,vscode)
+
+#### Database
+![Database](https://skillicons.dev/icons?i=mongodb)
+
+#### OS
+![OS](https://skillicons.dev/icons?i=windows,ubuntu)
 
 ---
 
