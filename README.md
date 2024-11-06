@@ -24,8 +24,11 @@
 #### Frameworks
 ![Frameworks](https://skillicons.dev/icons?i=react,astro)
 
+#### Libraries
+![Libraries](https://skillicons.dev/icons?i=express,tailwind)
+
 #### Tools
-![Tools](https://skillicons.dev/icons?i=git,github,vscode,npm)
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,npm,figma)
 
 #### Database
 ![Database](https://skillicons.dev/icons?i=mongodb)
