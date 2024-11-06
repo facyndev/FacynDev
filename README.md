@@ -50,7 +50,7 @@
 
 <br/>
 
-  <h2 align="center"> Github Statistics 📈 </h2>
+  <h2 align="start"> Github Statistics 📈 </h2>
   
   <div align="start"> 
      <a href="">
