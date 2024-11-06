@@ -25,7 +25,7 @@
 ![Frameworks](https://skillicons.dev/icons?i=react,astro)
 
 #### Tools
-![Tools](https://skillicons.dev/icons?i=git,github,vscode)
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,npm)
 
 #### Database
 ![Database](https://skillicons.dev/icons?i=mongodb)
