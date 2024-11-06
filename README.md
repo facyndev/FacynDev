@@ -37,9 +37,6 @@
 ![OS](https://skillicons.dev/icons?i=windows,ubuntu)
 
 ---
-
-<br/>
-
   <h2 align="start"> Github Statistics 📈 </h2>
   
   <div align="start"> 
@@ -50,9 +47,6 @@
       <img align="start" src="https://github-readme-stats.vercel.app/api/top-langs/?username=facyndev&theme=react&line_height=40&hide=css"/>
     </a>
 </div
-
-<br/>
-
 ---
 
 [website]: https://facyn.xyz
