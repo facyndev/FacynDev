@@ -1,7 +1,5 @@
 # Hi there, I'm Facyn 👋
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-
 ## I'm a Web Developer  
 
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
@@ -11,9 +9,9 @@
 ---
 
 ### Contact with me 📝
-[![Website](https://skillicons.dev/icons?i=instagram)][website]
 
-[<img align="left" alt="Facyn | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
+[![Website](https://skillicons.dev/icons?i=instagram)][Instagram]
+[![Website](https://skillicons.dev/icons?i=linkedin)][Instagram]
 [<img align="left" alt="Facyn | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />][instagram]
 
 <br />
