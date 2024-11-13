@@ -5,15 +5,6 @@
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-  
----
-
-### Contact with me 📝
-
-[![instagram](https://skillicons.dev/icons?i=instagram)][Instagram]
-[![linkedin](https://skillicons.dev/icons?i=linkedin)][Linkedin]
-[![gmail](https://skillicons.dev/icons?i=gmail)][Gmail]
-
 ---
 
 ### Skills 🛠 
@@ -21,20 +12,25 @@
 #### Languages
 ![Languages](https://skillicons.dev/icons?i=html,css,javascript,java,python)
 
-#### Frameworks
-![Frameworks](https://skillicons.dev/icons?i=react,astro)
-
-#### Libraries
-![Libraries](https://skillicons.dev/icons?i=express,tailwind)
+#### Technologies
+![Frameworks](https://skillicons.dev/icons?i=react,astro,express,tailwind,npm)
 
 #### Tools
-![Tools](https://skillicons.dev/icons?i=git,github,vscode,npm,figma)
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,figma)
 
 #### Database
 ![Database](https://skillicons.dev/icons?i=mongodb)
 
 #### OS
 ![OS](https://skillicons.dev/icons?i=windows,ubuntu)
+
+---
+
+### Contact with me 📝
+
+[![instagram](https://skillicons.dev/icons?i=instagram)][Instagram]
+[![linkedin](https://skillicons.dev/icons?i=linkedin)][Linkedin]
+[![gmail](https://skillicons.dev/icons?i=gmail)][Gmail]
 
 ---
   <h2 align="start"> Github Statistics 📈 </h2>
