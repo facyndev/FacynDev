@@ -1,16 +1,10 @@
 # Hi there, I'm Facyn 👋
-
-## I'm a Web Developer  
-
-- 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
-- 📚 I’m currently learning everything about Frontend and Backend technologies 😅
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
----
+## I'm Developer  
 
 ### Skills 🛠 
 
 #### Languages
-![Languages](https://skillicons.dev/icons?i=html,css,javascript,java,python)
+![Languages](https://skillicons.dev/icons?i=html,css,javascript,python)
 
 #### Technologies
 ![Frameworks](https://skillicons.dev/icons?i=react,astro,express,tailwind,npm)
