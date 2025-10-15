@@ -14,6 +14,7 @@
 
 #### Database
 ![Database](https://skillicons.dev/icons?i=mongodb)
+![Database](https://skillicons.dev/icons?i=mysql)
 
 #### OS
 ![OS](https://skillicons.dev/icons?i=windows,ubuntu)
