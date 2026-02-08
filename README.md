@@ -10,7 +10,7 @@
 ![Frameworks](https://skillicons.dev/icons?i=react,astro,express,tailwind,npm)
 
 #### Tools
-![Tools](https://skillicons.dev/icons?i=git,github,vscode,antigravity,figma)
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,figma)
 
 #### Database
 ![Database](https://skillicons.dev/icons?i=mongodb)
